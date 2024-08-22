@@ -16,6 +16,7 @@ D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem3\turismo\turismo\obj\Debug\netstandard2.0
 D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem3\turismo\turismo\obj\Debug\netstandard2.0\turismo.AssemblyInfoInputs.cache
 D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem3\turismo\turismo\obj\Debug\netstandard2.0\turismo.AssemblyInfo.cs
 D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem3\turismo\turismo\obj\Debug\netstandard2.0\turismo.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem3\turismo\turismo\obj\Debug\netstandard2.0\turismo.sourcelink.json
 D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem3\turismo\turismo\obj\Debug\netstandard2.0\XamlC.stamp
 D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem3\turismo\turismo\obj\Debug\netstandard2.0\turismo.dll
 D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem3\turismo\turismo\obj\Debug\netstandard2.0\refint\turismo.dll

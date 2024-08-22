@@ -62,6 +62,7 @@ D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem3\turismo\turismo.Android\obj\Debug\130\re
 D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem3\turismo\turismo.Android\obj\Debug\130\res\mipmap-xxhdpi\launcher_foreground.png
 D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem3\turismo\turismo.Android\obj\Debug\130\res\mipmap-xxxhdpi\icon.png
 D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem3\turismo\turismo.Android\obj\Debug\130\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem3\turismo\turismo.Android\obj\Debug\130\res\mipmap-xxxhdpi\logo.png
 D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem3\turismo\turismo.Android\obj\Debug\130\uploadflags.txt
 D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem3\turismo\turismo.Android\obj\Debug\130\resolvedassemblies.hash
 D:\PROYECTOS\VISUAL STUDIO\XAMARIN\sem3\turismo\turismo.Android\obj\Debug\130\android\assets\FormsViewGroup.dll
