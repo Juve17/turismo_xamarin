@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="turismo.Views.Login.VLPrincipal"
+             xmlns:Componentes="clr-namespace:turismo.Views.Components"
+             >
+  
+    <ContentPage.Content>
+        <StackLayout>
+
+
+            <Frame CornerRadius="40" Margin="30">
+                <StackLayout>
+                    <Image Source="https://img.freepik.com/vector-gratis/ilustracion-concepto-inicio-sesion_114360-739.jpg"/>
+                    <Label Text="Usuario"/>
+                    <Componentes:Input_text x:Name="txtUsuario"/>
+                    <Label Text="Contraseña" />
+                    <Componentes:Input_text x:Name="txtcontraseña"/>
+                    <Componentes:Btn_basicos x:Name="btnIngresar" />
+                    <Label x:Name="lblrespuesta" TextColor="red"/>
+
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

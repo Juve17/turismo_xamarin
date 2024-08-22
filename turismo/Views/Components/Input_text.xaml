@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="turismo.Views.Components.Input_text">
+    <ContentView.Content>
+        <StackLayout>
+            <Frame CornerRadius="30" Padding="5" HasShadow="True">
+                <Entry x:Name="entry" Margin="20,0" Style="{StaticResource form-control}" BackgroundColor="Transparent"  />
+            </Frame>
+        </StackLayout>
+    </ContentView.Content>
+</ContentView>

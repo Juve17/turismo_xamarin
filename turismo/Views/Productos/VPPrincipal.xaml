@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="turismo.Views.Productos.VPPrincipal"
+             xmlns:Componentes="clr-namespace:turismo.Views.Components">
+    <ContentPage.Resources>
+        <Style x:Key="btn_basico" TargetType="Button">
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="CornerRadius"  Value="100"/>
+            <Setter Property="Padding" Value="20,0"/>
+            <Setter Property="Margin" Value="20,0"/>
+            <Setter Property="TextTransform" Value="None"/>
+        </Style>
+        <Style x:Key="btn-active" BasedOn="{StaticResource btn_basico}" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="Green"/>
+            <Setter Property="TextColor" Value="White"/>
+        </Style>
+        <Style x:Key="btn-inactive" BasedOn="{StaticResource btn_basico}" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="Transparent"/>
+            <Setter Property="BorderColor" Value="Gray"/>
+            <Setter Property="BorderWidth" Value="1"/>
+            <Setter Property="TextColor" Value="Gray"/>
+        </Style>
+        <Style x:Key="btn-ico-active" TargetType="FontImageSource">
+            <Setter Property="Color" Value="White"/>
+        </Style>
+        <Style x:Key="btn-ico-inactive" TargetType="FontImageSource">
+            <Setter Property="Color" Value="Gray"/>
+        </Style>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout  >
+            <StackLayout>
+                <Frame Margin="20,15,20,10" CornerRadius="50" Padding="0" HasShadow="True">
+                    <StackLayout Orientation="Horizontal" Margin="10,0" >
+                        <Label VerticalOptions="Center" HorizontalOptions="Start" Text="&#xf002;" FontFamily="{StaticResource FontAwesomeSolid}"/>
+                        <Entry VerticalOptions="Center" HorizontalOptions="FillAndExpand"  Placeholder="Buscar..." />
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+            <ScrollView Orientation="Horizontal">
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Spacing="10">
+                    <Button Style="{StaticResource btn-active}">
+                        <Button.ImageSource Style="{StaticResource btn-ico-active}" >
+                            <FontImageSource FontFamily="{StaticResource FontAwesomeSolid}"
+                         Glyph="&#xf594;"
+                         Size="Small"
+                          Color="White"
+                         />
+                        </Button.ImageSource>
+                        <Button.Text>Hotel</Button.Text>
+                    </Button>
+                    <Button  Style="{StaticResource btn-inactive}">
+                        <Button.ImageSource   >
+                            <FontImageSource FontFamily="{StaticResource FontAwesomeSolid}"
+                                         Glyph="&#xf594;"
+                                         Size="Small" 
+                                             Color="Gray"
+                                          />
+                        </Button.ImageSource>
+                        <Button.Text>Hotel1</Button.Text>
+                    </Button>
+                    <Button Style="{StaticResource btn-inactive}">
+                        <Button.ImageSource>
+                            <FontImageSource FontFamily="{StaticResource FontAwesomeSolid}"
+                                         Glyph="&#xf594;"
+                                         Size="Small"
+                                         Color="Gray"/>
+                        </Button.ImageSource>
+                        <Button.Text>Hotel</Button.Text>
+                    </Button>
+                </StackLayout>
+            </ScrollView>
+            <ScrollView Orientation="Vertical" Margin="20,5">
+                <StackLayout>
+                    <Frame Padding="0" CornerRadius="15" BackgroundColor="blue">
+                        <Grid>
+                            <!--<Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>-->
+
+                            <Image Source="https://img.freepik.com/foto-gratis/cenadores-madera-arboles-montanas_140725-3026.jpg"
+                               Aspect="AspectFill"
+                               Grid.Row="0"
+                               Grid.Column="0"
+                               Grid.ColumnSpan="2"  
+                               Grid.RowSpan="2"
+                               />
+                            <!--creamos el boton de recomendado-->
+                            <Frame Grid.Column="0"
+                                   Padding="20,10"
+                                   Grid.Row="0" 
+                                   Margin="10"
+                                   BackgroundColor="Black"
+                                   VerticalOptions="Start"
+                                   HorizontalOptions="Start"
+                                   CornerRadius="50">
+
+                                <Label Text="Recomendado"  
+                                   TextColor="White"
+                                   FontAttributes="Bold" 
+                                   />
+                            </Frame>
+                            <!--boton de favorito-->
+                            <Button Grid.Row="0"
+                                    Grid.Column="1"
+                                    VerticalOptions="Start"
+                                    HorizontalOptions="End" 
+                                    Margin="10"
+                                    BackgroundColor="White"
+                                    CornerRadius="50"
+                                    WidthRequest="50"
+                                    >
+                                <Button.ImageSource>
+                                    <FontImageSource FontFamily="{StaticResource FontAwesomeRegular}"
+                                     Glyph="&#xf004;"
+                                     Size="Title"
+                                     Color="Gray"/>
+                                </Button.ImageSource>
+                            </Button>
+
+                            <!-- datos del hotel-->
+                            <Frame Grid.Column="0"
+                                   Grid.Row="1"
+                                   Grid.ColumnSpan="2"
+                                   Margin="10"
+                                   CornerRadius="10"
+                                   Padding="10">
+
+                                <StackLayout>
+                                    <Label Text="Casa de campo - Mazamari" TextColor="Black" FontAttributes="Bold"/>
+                                    <Label Text="Av. Perú 666, Mazamari, Satipo"/>
+                                    <StackLayout Orientation="Horizontal">
+                                        <Frame BackgroundColor="Transparent" Margin="0" Padding="0"  >
+                                            <StackLayout Orientation="Horizontal" VerticalOptions="Center">
+                                                <Label Text="&#xf004;" FontFamily="{StaticResource FontAwesomeRegular}"/>
+                                                <Label Text="4,5 Ration" HorizontalOptions="Start"/> 
+                                            </StackLayout>
+                                        </Frame>
+
+                                        <Frame BackgroundColor="Transparent" Margin="0" Padding="0" HorizontalOptions="StartAndExpand">
+                                            <StackLayout Orientation="Horizontal" VerticalOptions="Center">
+                                                <Label Text="&#xf3c5;" FontFamily="{StaticResource FontAwesomeSolid}"/>
+                                                <Label Text="1 Km" />
+                                            </StackLayout>
+                                        </Frame>
+                                        
+                                        <Frame BackgroundColor="Transparent" Margin="0" Padding="0" HorizontalOptions="End">
+                                            <StackLayout Orientation="Horizontal" VerticalOptions="End" >
+                                                <Label Text="S/. 80.0" TextColor="Black"/>
+                                                <Label Text="/Noche" FontSize="10" TextColor="Gray" VerticalOptions="End" />
+                                            </StackLayout>
+                                        </Frame> 
+                                    </StackLayout>
+                                </StackLayout>
+                            </Frame>
+                        </Grid>
+
+                    </Frame>
+                    <Frame>
+                        <Image Source="https://img.freepik.com/foto-gratis/cenadores-madera-arboles-montanas_140725-3026.jpg"/>
+
+                    </Frame>
+                    <Frame>
+                        <Image Source="https://img.freepik.com/foto-gratis/cenadores-madera-arboles-montanas_140725-3026.jpg"/>
+
+                    </Frame>
+                    <Frame>
+                        <Image Source="https://img.freepik.com/foto-gratis/cenadores-madera-arboles-montanas_140725-3026.jpg"/>
+
+                    </Frame>
+                </StackLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

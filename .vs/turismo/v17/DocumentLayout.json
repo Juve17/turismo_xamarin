@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|d:\\proyectos\\visual studio\\xamarin\\sem3\\turismo\\turismo\\views\\productos\\vpprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|solutionrelative:turismo\\views\\productos\\vpprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|d:\\proyectos\\visual studio\\xamarin\\sem3\\turismo\\turismo\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|solutionrelative:turismo\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|d:\\proyectos\\visual studio\\xamarin\\sem3\\turismo\\turismo\\views\\components\\input_text.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|solutionrelative:turismo\\views\\components\\input_text.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|d:\\proyectos\\visual studio\\xamarin\\sem3\\turismo\\turismo\\views\\login\\vlprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|solutionrelative:turismo\\views\\login\\vlprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|d:\\proyectos\\visual studio\\xamarin\\sem3\\turismo\\turismo\\views\\components\\btn_basicos.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|solutionrelative:turismo\\views\\components\\btn_basicos.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|d:\\proyectos\\visual studio\\xamarin\\sem3\\turismo\\turismo\\views\\components\\btn_basicos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|solutionrelative:turismo\\views\\components\\btn_basicos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|d:\\proyectos\\visual studio\\xamarin\\sem3\\turismo\\turismo\\models\\productos\\mproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|solutionrelative:turismo\\models\\productos\\mproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|d:\\proyectos\\visual studio\\xamarin\\sem3\\turismo\\turismo\\views\\menu\\vmmenu.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|solutionrelative:turismo\\views\\menu\\vmmenu.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|d:\\proyectos\\visual studio\\xamarin\\sem3\\turismo\\turismo\\views\\home\\vhprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|solutionrelative:turismo\\views\\home\\vhprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|d:\\proyectos\\visual studio\\xamarin\\sem3\\turismo\\turismo\\views\\login\\vlprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|solutionrelative:turismo\\views\\login\\vlprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|d:\\proyectos\\visual studio\\xamarin\\sem3\\turismo\\turismo\\views\\home\\vhprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|solutionrelative:turismo\\views\\home\\vhprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|d:\\proyectos\\visual studio\\xamarin\\sem3\\turismo\\turismo\\views\\home\\vhfooter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|solutionrelative:turismo\\views\\home\\vhfooter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|d:\\proyectos\\visual studio\\xamarin\\sem3\\turismo\\turismo\\views\\home\\vhfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|solutionrelative:turismo\\views\\home\\vhfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|d:\\proyectos\\visual studio\\xamarin\\sem3\\turismo\\turismo\\views\\components\\input_text.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A371EFF-9510-4350-9C8E-C74C4304C48A}|turismo\\turismo.csproj|solutionrelative:turismo\\views\\components\\input_text.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9b96d899-3214-4b6f-a8b9-182d4bc2f76f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\App.xaml",
+              "RelativeDocumentMoniker": "turismo\\App.xaml",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\App.xaml",
+              "RelativeToolTip": "turismo\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-22T10:09:47.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Input_text.xaml",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Components\\Input_text.xaml",
+              "RelativeDocumentMoniker": "turismo\\Views\\Components\\Input_text.xaml",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Components\\Input_text.xaml",
+              "RelativeToolTip": "turismo\\Views\\Components\\Input_text.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-21T17:17:17.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VPPrincipal.xaml",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Productos\\VPPrincipal.xaml",
+              "RelativeDocumentMoniker": "turismo\\Views\\Productos\\VPPrincipal.xaml",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Productos\\VPPrincipal.xaml",
+              "RelativeToolTip": "turismo\\Views\\Productos\\VPPrincipal.xaml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwFUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-21T20:20:54.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Btn_basicos.xaml",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Components\\Btn_basicos.xaml",
+              "RelativeDocumentMoniker": "turismo\\Views\\Components\\Btn_basicos.xaml",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Components\\Btn_basicos.xaml",
+              "RelativeToolTip": "turismo\\Views\\Components\\Btn_basicos.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-21T17:08:23.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Btn_basicos.xaml.cs",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Components\\Btn_basicos.xaml.cs",
+              "RelativeDocumentMoniker": "turismo\\Views\\Components\\Btn_basicos.xaml.cs",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Components\\Btn_basicos.xaml.cs",
+              "RelativeToolTip": "turismo\\Views\\Components\\Btn_basicos.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:18:15.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VLPrincipal.xaml.cs",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Login\\VLPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "turismo\\Views\\Login\\VLPrincipal.xaml.cs",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Login\\VLPrincipal.xaml.cs",
+              "RelativeToolTip": "turismo\\Views\\Login\\VLPrincipal.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T19:21:37.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VLPrincipal.xaml",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Login\\VLPrincipal.xaml",
+              "RelativeDocumentMoniker": "turismo\\Views\\Login\\VLPrincipal.xaml",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Login\\VLPrincipal.xaml",
+              "RelativeToolTip": "turismo\\Views\\Login\\VLPrincipal.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-21T17:15:42.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MProductos.cs",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Models\\Productos\\MProductos.cs",
+              "RelativeDocumentMoniker": "turismo\\Models\\Productos\\MProductos.cs",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Models\\Productos\\MProductos.cs",
+              "RelativeToolTip": "turismo\\Models\\Productos\\MProductos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T22:07:59.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VMMenu.xaml",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Menu\\VMMenu.xaml",
+              "RelativeDocumentMoniker": "turismo\\Views\\Menu\\VMMenu.xaml",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Menu\\VMMenu.xaml",
+              "RelativeToolTip": "turismo\\Views\\Menu\\VMMenu.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-21T22:03:05.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VHPrincipal.xaml.cs",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Home\\VHPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "turismo\\Views\\Home\\VHPrincipal.xaml.cs",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Home\\VHPrincipal.xaml.cs",
+              "RelativeToolTip": "turismo\\Views\\Home\\VHPrincipal.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:15:59.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VHPrincipal.xaml",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Home\\VHPrincipal.xaml",
+              "RelativeDocumentMoniker": "turismo\\Views\\Home\\VHPrincipal.xaml",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Home\\VHPrincipal.xaml",
+              "RelativeToolTip": "turismo\\Views\\Home\\VHPrincipal.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-21T16:20:03.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VHFooter.xaml.cs",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Home\\VHFooter.xaml.cs",
+              "RelativeDocumentMoniker": "turismo\\Views\\Home\\VHFooter.xaml.cs",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Home\\VHFooter.xaml.cs",
+              "RelativeToolTip": "turismo\\Views\\Home\\VHFooter.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:17:08.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VHFooter.xaml",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Home\\VHFooter.xaml",
+              "RelativeDocumentMoniker": "turismo\\Views\\Home\\VHFooter.xaml",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Home\\VHFooter.xaml",
+              "RelativeToolTip": "turismo\\Views\\Home\\VHFooter.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-21T16:40:28.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Input_text.xaml.cs",
+              "DocumentMoniker": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Components\\Input_text.xaml.cs",
+              "RelativeDocumentMoniker": "turismo\\Views\\Components\\Input_text.xaml.cs",
+              "ToolTip": "D:\\PROYECTOS\\VISUAL STUDIO\\XAMARIN\\sem3\\turismo\\turismo\\Views\\Components\\Input_text.xaml.cs",
+              "RelativeToolTip": "turismo\\Views\\Components\\Input_text.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:17:31.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
